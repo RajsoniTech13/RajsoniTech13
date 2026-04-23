@@ -1,3 +1,6 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=RajsoniTech13&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Rajkumar%20Soni&fontSize=70&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Backend&descAlignY=55&descAlign=60" alt="Profile Banner"/>
 </div>
