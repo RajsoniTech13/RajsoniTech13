@@ -1,7 +1,5 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Rajkumar%20Soni&fontSize=70&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Backend%20%2526%20SRE&descAlignY=55&descAlign=60" alt="Profile Banner"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Rajkumar%20Soni&fontSize=70&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20Backend&descAlignY=55&descAlign=60" alt="Profile Banner"/>
 </div>
 
 # Hey there, I'm Rajkumar 👋
