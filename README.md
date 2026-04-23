@@ -8,7 +8,7 @@
 
 * 🎓 Currently studying at Pandit Deendayal Energy University (PDEU).
 * 💻 Actively working on scalable backend architectures, real-time data pipelines, and startup ecosystems.
-* 🚀 Future Goals: Master Site Reliability Engineering (SRE) and continue building innovative ideas.
+* 🚀 Future Goals: Master Software Development Engineer (SDE) and continue building innovative ideas.
 * 🏆 Problem Solving: 1500+ Rating on LeetCode with a strong focus on Data Structures & Algorithms.
 * ⚡ Fun fact: When I'm away from the keyboard, I love playing musical instruments.
 
@@ -55,9 +55,10 @@
 
 ---
 
+<!--
 ### 📊 GitHub Analytics
 
-<p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak" />
 </p>
@@ -74,4 +75,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
   </picture>
-</div>
+</div> -->
