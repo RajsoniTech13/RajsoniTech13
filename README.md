@@ -77,14 +77,6 @@ I'm **Rajkumar Soni**, a passionate **Computer Science & Engineering** student a
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajsoniTech13&bg_color=1a1b27&line=39BDAE&point=ffffff&area=true&area_color=39BDAE&title_color=39BDAE&unhide_ctab=true" width="100%" />
 </div>
 
----
-
-### 🎵 Listening to...
-<div align="center">
-  <a href="https://github.com/novatorem/novatorem">
-    <img src="https://novatorem.bgstatic.vercel.app/api/spotify" alt="Spotify" width="400" />
-  </a>
-</div>
 
 ---
 
