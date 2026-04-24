@@ -40,19 +40,8 @@ I'm **Rajkumar Soni**, a passionate **Computer Science & Engineering** student a
 
 </div>
 
----
 
-### 🚀 Featured Projects
 
-<div align="center">
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Project Alpha](https://github.com/RajsoniTech13)** | A high-performance real-time chat application with WebSockets. | `Node.js`, `Socket.io`, `Redis` |
-| **[Project Beta](https://github.com/RajsoniTech13)** | Distributed file storage system with end-to-end encryption. | `Go`, `gRPC`, `PostgreSQL` |
-| **[Project Gamma](https://github.com/RajsoniTech13)** | AI-powered task management tool with priority scheduling. | `FastAPI`, `React`, `MongoDB` |
-
-</div>
 
 ---
 
