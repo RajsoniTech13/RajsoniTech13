@@ -32,11 +32,11 @@ I'm **Rajkumar Soni**, a passionate **Computer Science & Engineering** student a
 
 | **Category** | **Technologies** |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,py,js,go,java,ts" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nestjs,spring" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,elasticsearch" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,docker,linux,aws,kafka,kubernetes,terraform" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,py,js,go,java" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,hadoop" /> |
+| **Tools & Cloud** | <img src="https://skillicons.dev/icons?i=git,docker,linux,aws,kafka,spark" /> |
 
 </div>
 
@@ -72,22 +72,7 @@ I'm **Rajkumar Soni**, a passionate **Computer Science & Engineering** student a
 
 ---
 
-### 🏆 Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RajsoniTech13&theme=tokyonight&margin-w=20" alt="Trophies" />
-  </a>
-</div>
-
----
-
 ### 🟩 Activity & Contributions
-
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=RajsoniTech13&theme=dark" width="100%" alt="3D Contribution Graph" />
-</div>
-
-<br />
 
 <div align="center">
   <picture>
