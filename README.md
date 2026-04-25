@@ -30,7 +30,7 @@ I am a Computer Science & Engineering student at PDEU focused on building robust
 ### 📌 Resume Highlights
 - **Education:** B.Tech CSE at PDEU (2024–2027), CGPA 9.53
 - **Internship:** Node.js Intern, DIT Interactive Pvt. Ltd. (Jul 2023 – Aug 2023)
-- **Achievements:** GATE 2026 qualified, ACPC DDCET 2024 Rank 40, 3rd Rank Breach Hackathon 2026
+- **Achievements:** GATE 2026 qualified, ACPC DDCET 2024 Rank 40
 - **Problem Solving:** LeetCode rating 1500+ with 100+ problems solved
 
 ---
