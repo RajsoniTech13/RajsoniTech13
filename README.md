@@ -14,14 +14,16 @@
 
 ---
 
-### 💫 About Me
-I'm **Rajkumar V. Soni**, a B.Tech Computer Science & Engineering student at **Pandit Deendayal Energy University (PDEU)** with a strong focus on backend systems, real-time data pipelines, and scalable full-stack applications.
+## 💫 About Me
 
-- 🔭 I’ve worked as a **Node.js Intern at DIT Interactive Pvt. Ltd.**, building REST APIs and improving backend performance.
-- 🌱 I’m learning **Advanced Go, System Design, and event-driven architectures**.
-- 💡 I love solving problems with **distributed systems**, **data engineering**, and **API-first backend design**.
-- 🎯 Goal: Ship production-grade SaaS and contribute to open-source backend tooling.
-- 🎵 Fun fact: I play musical instruments when I'm not coding.
+I am a Computer Science & Engineering student at PDEU focused on building robust backend systems and high-throughput data architectures. My work centers on scalability, performance optimization, and the intricacies of distributed computing.
+
+- 🔭 **Current Focus:** Engineering scalable backend services and refining application performance.
+- 🌱 **Learning Path:** Advanced Go (Golang), Distributed Systems, and Event-Driven Architectures.
+- ⚡ **Technical Interests:** Backend Engineering, SDE, and Cloud-Native Development.
+- 🎯 **Goal:** Shipping production-grade distributed systems and contributing to the open-source ecosystem.
+- 🎵 **Fun Fact:** When I'm not optimizing code, I’m likely playing musical instruments.
+
 
 ---
 
