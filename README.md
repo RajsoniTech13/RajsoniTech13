@@ -94,5 +94,5 @@ I'm **Rajkumar Soni**, a passionate **Computer Science & Engineering** student a
   <a href="mailto:rajsonitechdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://rajsoni.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
----
+
 </div>
