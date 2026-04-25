@@ -15,14 +15,21 @@
 ---
 
 ### 💫 About Me
-I'm **Rajkumar Soni**, a passionate **Computer Science & Engineering** student at **Pandit Deendayal Energy University (PDEU)**. My journey in tech is driven by a fascination for building scalable systems and solving complex problems.
+I'm **Rajkumar V. Soni**, a B.Tech Computer Science & Engineering student at **Pandit Deendayal Energy University (PDEU)** with a strong focus on backend systems, real-time data pipelines, and scalable full-stack applications.
 
-- 🔭 I’m currently working on **scalable backend architectures** and **real-time data pipelines**.
-- 🌱 I’m currently learning **Advanced Go** and **System Design**.
-- 👯 I’m looking to collaborate on **Open Source Backend Projects**.
-- 🎓 **Class of 2027**: Aiming to master Distributed Systems and SDE roles.
-- 🥅 2026 Goals: Contribute to high-impact open-source projects and build a production-grade SaaS.
-- ⚡ Fun fact: I love playing musical instruments when I'm not coding.
+- 🔭 I’ve worked as a **Node.js Intern at DIT Interactive Pvt. Ltd.**, building REST APIs and improving backend performance.
+- 🌱 I’m learning **Advanced Go, System Design, and event-driven architectures**.
+- 💡 I love solving problems with **distributed systems**, **data engineering**, and **API-first backend design**.
+- 🎯 Goal: Ship production-grade SaaS and contribute to open-source backend tooling.
+- 🎵 Fun fact: I play musical instruments when I'm not coding.
+
+---
+
+### 📌 Resume Highlights
+- **Education:** B.Tech CSE at PDEU (2024–2027), CGPA 9.53
+- **Internship:** Node.js Intern, DIT Interactive Pvt. Ltd. (Jul 2023 – Aug 2023)
+- **Achievements:** GATE 2026 qualified, ACPC DDCET 2024 Rank 40, 3rd Rank Breach Hackathon 2026
+- **Problem Solving:** LeetCode rating 1500+ with 100+ problems solved
 
 ---
 
@@ -40,34 +47,33 @@ I'm **Rajkumar Soni**, a passionate **Computer Science & Engineering** student a
 
 </div>
 
+---
 
+### 🚀 Featured Projects
 
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| **Sentinel** | Real-time FinTech fraud detection pipeline using Kafka, PySpark, Hadoop HDFS, FastAPI, React, and Docker. | Kafka, PySpark, Hadoop HDFS, FastAPI, React, Docker |
+| **Nexora** | AI-powered expense tracking platform with OCR + NLP, JWT auth, Redis caching, and blockchain audit logging. | React.js, Node.js, PostgreSQL, Redis, OCR, NLP |
+| **CampusLink** | Full-stack campus networking platform built with React, Node.js, and MySQL. | React.js, Node.js, MySQL |
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajsoniTech13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajsoniTech13&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajsoniTech13&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/RajsoniTech13?cardType=level&theme=tokyonight&preferLogin=false" width="48%" />
-</div>
+### 💼 Experience
+- **Node.js Intern, DIT Interactive Pvt. Ltd.** (Jul 2023 – Aug 2023)
+  - Built REST APIs using Node.js and Express.
+  - Optimized database queries to reduce latency and improve API performance.
+  - Debugged production issues and improved system stability.
 
 ---
 
 ### 🟩 Activity & Contributions
-
 <div align="center">
+  <h3>GitHub Contribution Snake Animation</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajsoniTech13/RajsoniTech13/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RajsoniTech13/RajsoniTech13/output/github-contribution-grid-snake.svg">
-    <!-- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RajsoniTech13/RajsoniTech13/output/github-contribution-grid-snake.svg" width="100%"> -->
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RajsoniTech13/RajsoniTech13/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
@@ -76,7 +82,6 @@ I'm **Rajkumar Soni**, a passionate **Computer Science & Engineering** student a
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajsoniTech13&bg_color=1a1b27&line=39BDAE&point=ffffff&area=true&area_color=39BDAE&title_color=39BDAE&unhide_ctab=true" width="100%" />
 </div>
-
 
 ---
 
@@ -93,6 +98,4 @@ I'm **Rajkumar Soni**, a passionate **Computer Science & Engineering** student a
   <a href="https://leetcode.com/u/rajsonitech/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="mailto:rajsonitechdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://rajsoni.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</div>
-
 </div>
