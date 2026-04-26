@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:000000&height=300&section=header&text=Rajkumar%20Soni&fontSize=90&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:000000&height=300&section=header&text=Raj%20Soni&fontSize=90&animation=fadeIn&fontColor=ffffff" />
 </div>
 
 <div align="center">
