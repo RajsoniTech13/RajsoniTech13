@@ -101,8 +101,6 @@ I am a Computer Science & Engineering student at PDEU focused on building robust
 
 ---
 
-
-
 ### 🤝 Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/rajkumar-soni-548414337/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
