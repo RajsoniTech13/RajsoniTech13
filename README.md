@@ -71,7 +71,7 @@ I am a Computer Science & Engineering student at PDEU focused on building robust
 ### 🚀 SkillForge Dev Card
 <div align="center">
   <a href="https://skill-forge-q2l9.onrender.com/dashboard">
-    <img src="https://skill-forge-back-1xkv.onrender.com/api/cards/Raj?theme=dark" />
+    <img src="https://skill-forge-back-1xkv.onrender.com/api/cards/Raj%20Soni?theme=dark" />
   </a>
 </div>
 
