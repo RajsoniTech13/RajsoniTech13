@@ -17,8 +17,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RajsoniTech13&label=Profile%20Views&color=39BDAE&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Open%20to-6--Month%20SDE%20Internship-39BDAE?style=flat-square" alt="Open to internship" />
-  <img src="https://img.shields.io/badge/Based%20in-Gandhinagar,%20India-2c3e50?style=flat-square" alt="Location" />
 </p>
 
 ---
