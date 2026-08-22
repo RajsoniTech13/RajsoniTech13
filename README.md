@@ -220,8 +220,9 @@ Final-year **Computer Engineering** student at **PDEU** (CGPA **9.55/10**, **GAT
 ## <img src="https://api.iconify.design/lucide/activity.svg?color=%2339bdae" width="24" align="absmiddle" /> Stats & Problem Solving
 
 <div align="center">
-  <img height="195" src="https://leetcard.jacoblin.cool/rajsonitech?theme=dark&font=Fira%20Code&border=0&radius=6" alt="LeetCode Stats" />
-  <img height="195" src="https://streak-stats.demolab.com/?user=RajsoniTech13&theme=tokyonight&hide_border=true&background=1A1B27&ring=39BDAE&fire=39BDAE&currStreakLabel=39BDAE&sideNums=ffffff&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak" />
+  <a href="https://skill-forge-q2l9.onrender.com/dashboard">
+    <img src="https://skill-forge-back-1xkv.onrender.com/api/cards/Raj%20Soni?theme=light" alt="SkillForge Dev Card" />
+  </a>
 </div>
 
 ---
