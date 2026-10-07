@@ -196,6 +196,7 @@ Final-year **Computer Engineering** student at **PDEU** (CGPA **9.55/10**, **GAT
 <td width="50%" valign="top">
 
 <img src="https://api.iconify.design/lucide/award.svg?color=%2339bdae" width="18" align="absmiddle" /> **Achievements**
+- **Odoo Hackathon 2026** — **2nd Runner-Up** among **8,500+ teams**, delivering a production-grade solution in a **48-hour engineering sprint**
 - **GATE 2026** — Qualified (Computer Science & IT)
 - **ACPC DDCET 2024** — Gujarat State **Rank 40**
 - **100% Merit Scholarship** — Rank 1, D2D lateral entry, PDEU
